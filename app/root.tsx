@@ -1,3 +1,4 @@
+// app/root.tsx
 import {
   Links,
   Meta,
@@ -6,7 +7,7 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import type { LinksFunction } from "@remix-run/node";
-
+import Header from "~/components/Header";
 import "./tailwind.css";
 
 export const links: LinksFunction = () => [
@@ -32,14 +33,21 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body>
-        {children}
-        <ScrollRestoration />
-        <Scripts />
+        <Header />
+        <main className="min-h-screen bg-black text-white flex flex-col items-center pt-16">
+          {children}
+          <ScrollRestoration />
+          <Scripts />
+        </main>
       </body>
     </html>
   );
 }
 
 export default function App() {
-  return <Outlet />;
+  return (
+    <Layout>
+      <Outlet />
+    </Layout>
+  );
 }
