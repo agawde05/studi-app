@@ -34,7 +34,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       </head>
       <body>
         <Header />
-        <main className="min-h-screen bg-black text-white flex flex-col items-center pt-16">
+        <main className="min-h-screen flex flex-col pt-16">
           {children}
           <ScrollRestoration />
           <Scripts />

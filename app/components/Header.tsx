@@ -1,13 +1,7 @@
-// app/components/Header.tsx
 import { Link, useLocation } from "@remix-run/react";
 import { useState, useEffect } from "react";
 
-interface NavLink {
-  href: string;
-  label: string;
-}
-
-const NAV_LINKS: NavLink[] = [
+const NAV_LINKS = [
   { href: "", label: "Home" },
   { href: "about", label: "About" },
   { href: "profile", label: "Profile" },
@@ -21,10 +15,8 @@ export default function Header() {
   const controlHeader = () => {
     if (typeof window !== "undefined") {
       if (window.scrollY > lastScrollY) {
-        // If we’re scrolling down, hide the header
         setShowHeader(false);
       } else {
-        // If we’re scrolling up, show the header
         setShowHeader(true);
       }
       setLastScrollY(window.scrollY);
@@ -42,28 +34,31 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed top-0 left-0 w-full bg-black text-white py-6 transition-transform duration-500 ${
-        showHeader ? "transform translate-y-0" : "transform -translate-y-full"
+      className={`fixed top-0 left-0 w-full bg-white border-b border-black transition-transform duration-500 ${
+        showHeader ? "translate-y-0" : "-translate-y-full"
       }`}
     >
-      <div className="flex justify-center">
-        <nav className="flex space-x-8">
-          {NAV_LINKS.map(({ href, label }) => {
-            const isActive = location.pathname === `/${href}`;
-            return (
-              <Link
-                key={href}
-                to={`/${href}`}
-                className={`text-sm font-normal transition ${
-                  isActive ? "text-gray-400" : "text-white hover:text-gray-400"
-                }`}
-                aria-current={isActive ? "page" : undefined}
+      <div className="flex items-center justify-between px-12 py-4 ">
+        {/* Left Section */}
+        <div className="text-black font-extrabold text-4xl">Studi</div>
+
+        {/* Right Section */}
+        <div className="flex items-center font-display">
+          <div className="flex items-center mr-2">
+            <div className="flex items-center mr-2">
+              <div
+                className="flex items-center justify-center bg-[#4121ee] rounded-full border border-black shadow-[2px_2px_2.6px_rgba(0,0,0,1)] text-white font-display text-[1.5rem] aspect-square"
+                style={{ width: "2.5rem" }}
               >
-                {label}
-              </Link>
-            );
-          })}
-        </nav>
+                M
+              </div>
+              <span className="text-black font-bold text-[1.5rem] pl-2 pt-1">
+                Hi, Mia
+              </span>
+            </div>
+          </div>
+          {/* <span className="text-black font-bold text-2xl">Hi, Mia</span> */}
+        </div>
       </div>
     </header>
   );

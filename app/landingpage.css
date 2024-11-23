@@ -1,0 +1,1287 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #ffffff;
+  height: 3036px;
+  position: relative;
+  overflow: hidden;
+}
+.landing-page .you-ve-viewed-18-of-38-posts {
+  color: #000000;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 623px;
+  top: 2784px;
+  width: 304px;
+  height: 62px;
+}
+.you-ve-viewed-18-of-38-posts-span {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.you-ve-viewed-18-of-38-posts-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.you-ve-viewed-18-of-38-posts-span3 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.you-ve-viewed-18-of-38-posts-span4 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.you-ve-viewed-18-of-38-posts-span5 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .component-1 {
+  width: 210px;
+  height: 52px;
+  position: absolute;
+  left: 659px;
+  top: 2894px;
+  box-shadow: 2px 2px 4.8px 0px rgba(0, 0, 0, 1);
+}
+.landing-page .rectangle-14 {
+  border-radius: 0px;
+  width: 68.1%;
+  height: 100%;
+  position: absolute;
+  right: 31.9%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.landing-page .rectangle-15 {
+  border-radius: 0px;
+  width: 33.33%;
+  height: 100%;
+  position: absolute;
+  right: -33.33%;
+  left: 100%;
+  bottom: 0%;
+  top: 0%;
+  transform: translate(-70px, 0px);
+  overflow: visible;
+}
+.landing-page .rectangle-16 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 36.19%;
+  height: 100%;
+  position: absolute;
+  right: 31.9%;
+  left: 31.9%;
+  bottom: 0%;
+  top: 0%;
+}
+.landing-page ._1 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 80%;
+  left: 13.81%;
+  width: 6.19%;
+  bottom: 28.85%;
+  top: 17.31%;
+  height: 53.85%;
+}
+.landing-page ._2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 42.86%;
+  left: 42.86%;
+  width: 14.29%;
+  bottom: 7.69%;
+  top: 17.31%;
+  height: 75%;
+}
+.landing-page ._3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 10.95%;
+  left: 74.76%;
+  width: 14.29%;
+  bottom: 7.69%;
+  top: 17.31%;
+  height: 75%;
+}
+.landing-page .vector-2 {
+  width: 16px;
+  height: 8px;
+  position: absolute;
+  left: 631px;
+  top: 2912px;
+  transform: translate(-9.5px, -1.06px);
+  overflow: visible;
+}
+.landing-page .vector-3 {
+  width: 16px;
+  height: 8px;
+  position: absolute;
+  left: 897px;
+  top: 2912px;
+  transform: translate(-1.06px, -1.06px);
+  overflow: visible;
+}
+.landing-page .rectangle-17 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 627px;
+  height: 14px;
+  position: absolute;
+  left: 454px;
+  top: 2842px;
+}
+.landing-page .rectangle-18 {
+  background: #4121ee;
+  width: 428px;
+  height: 12px;
+  position: absolute;
+  left: 455px;
+  top: 2843px;
+}
+.landing-page .search-for-studi-spot {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoFlex-Light", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  position: absolute;
+  left: 219px;
+  top: 1019px;
+  width: 224px;
+  height: 34px;
+}
+.landing-page .search-studi-spots {
+  background: #ffffff;
+  border-radius: 39px;
+  padding: 17px 80px 17px 79px;
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 397px;
+  height: 68px;
+  position: absolute;
+  left: 197px;
+  top: 986px;
+  box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.25);
+}
+.landing-page .group-28 {
+  flex-shrink: 0;
+  width: 45px;
+  height: 45px;
+  position: static;
+}
+.landing-page .ellipse-21 {
+  background: #4121ee;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 30px;
+  top: 11.5px;
+}
+.landing-page .search {
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  left: 37px;
+  top: 18.5px;
+  overflow: visible;
+}
+.landing-page .search-studi-spots2 {
+  color: #9f9ca9;
+  text-align: center;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: relative;
+}
+.landing-page .filter {
+  background: #ffffff;
+  border-radius: 39px;
+  padding: 15px 65px 15px 65px;
+  display: flex;
+  flex-direction: row;
+  gap: 9px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: 247px;
+  height: 68px;
+  position: absolute;
+  left: 609px;
+  top: 986px;
+  box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.25);
+}
+.landing-page .tune {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .filter2 {
+  color: #9f9ca9;
+  text-align: center;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: relative;
+}
+.landing-page .feed {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  width: 1154px;
+  height: 1663px;
+  position: absolute;
+  left: calc(50% - 577px);
+  top: 1092px;
+}
+.landing-page .frame-9 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.landing-page .frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 308px;
+  position: relative;
+}
+.landing-page .frame-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 233px;
+  position: relative;
+}
+.landing-page .mia-ranked-shapiro-undergraduate-library {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 52px;
+}
+.mia-ranked-shapiro-undergraduate-library-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-shapiro-undergraduate-library-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-shapiro-undergraduate-library-span3 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.landing-page .pin-logo {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .location {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoFlex-Thin", sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  position: relative;
+}
+.landing-page .frame-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 310px;
+  position: relative;
+}
+.landing-page .the-dude {
+  border-radius: 19px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 308px;
+  height: 237px;
+  position: relative;
+}
+.landing-page .group-4 {
+  flex-shrink: 0;
+  width: 51px;
+  height: 51px;
+  position: static;
+}
+.landing-page .group-5 {
+  width: 51px;
+  height: 51px;
+  position: static;
+}
+.landing-page .ellipse-17 {
+  background: #edd145;
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 242px;
+  top: 15px;
+}
+.landing-page ._5-2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 250px;
+  top: 28px;
+  width: 35px;
+  height: 25px;
+}
+.landing-page
+  .notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  width: 299px;
+  height: 74px;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page ._6-hours-ago {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoFlex-Thin", sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  position: relative;
+  align-self: stretch;
+  height: 19px;
+}
+.landing-page .frame-11 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.landing-page .mia-ranked-weiser-hall {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 26px;
+}
+.mia-ranked-weiser-hall-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-weiser-hall-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-weiser-hall-span3 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .pin-logo2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .weiser {
+  border-radius: 19px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 308px;
+  height: 237px;
+  position: relative;
+}
+.landing-page .ellipse-172 {
+  background: #219653;
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 242px;
+  top: 15px;
+}
+.landing-page ._9-9 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 250px;
+  top: 28px;
+  width: 35px;
+  height: 25px;
+}
+.landing-page
+  .notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  width: 299px;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-span3 {
+  color: #a2a2a2;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .frame-10 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.mia-ranked-shapiro-undergraduate-library-span4 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-shapiro-undergraduate-library-span5 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-shapiro-undergraduate-library-span6 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .pin-logo3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .pierpoint {
+  border-radius: 19px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 308px;
+  height: 237px;
+  position: relative;
+}
+.landing-page ._6-4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 250px;
+  top: 28px;
+  width: 35px;
+  height: 25px;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span3 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span4 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .frame-8 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.landing-page .mia-ranked-the-michigan-union {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  width: 307px;
+}
+.mia-ranked-the-michigan-union-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-the-michigan-union-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-the-michigan-union-span3 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .pin-logo4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .union {
+  border-radius: 19px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 308px;
+  height: 237px;
+  position: relative;
+}
+.landing-page .group-2 {
+  flex-shrink: 0;
+  width: 51px;
+  height: 51px;
+  position: static;
+}
+.landing-page .ellipse-16 {
+  background: #df3333;
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 242px;
+  top: 15px;
+}
+.landing-page ._1-9 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 254px;
+  top: 28px;
+  width: 28px;
+  height: 25px;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span5 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span6 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .frame-13 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.mia-ranked-shapiro-undergraduate-library-span7 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-shapiro-undergraduate-library-span8 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-shapiro-undergraduate-library-span9 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .pin-logo5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .ugli {
+  border-radius: 19px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 308px;
+  height: 237px;
+  position: relative;
+}
+.landing-page ._4-9 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 250px;
+  top: 28px;
+  width: 35px;
+  height: 25px;
+}
+.landing-page
+  .notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more2 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  width: 299px;
+  height: 74px;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-2-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-2-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-2-span3 {
+  color: #a2a2a2;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .frame-12 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.landing-page .mia-ranked-munger-graduate-residences {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 52px;
+}
+.mia-ranked-munger-graduate-residences-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-munger-graduate-residences-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-munger-graduate-residences-span3 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .pin-logo6 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .munger {
+  border-radius: 19px;
+  padding: 16px 15px 16px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 308px;
+  height: 237px;
+  position: relative;
+}
+.landing-page .group-1 {
+  flex-shrink: 0;
+  width: 51px;
+  height: 51px;
+  position: static;
+}
+.landing-page .ellipse-18 {
+  background: #219653;
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 242px;
+  top: 16px;
+}
+.landing-page ._9-6 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 251px;
+  top: 29px;
+  width: 33px;
+  height: 20px;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-span4 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-span5 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-span6 {
+  color: #a2a2a2;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .frame-7 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.landing-page .frame-22 {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 308px;
+  position: relative;
+}
+.landing-page .mia-ranked-the-michigan-league {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  width: 307px;
+}
+.mia-ranked-the-michigan-league-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-the-michigan-league-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-the-michigan-league-span3 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .pin-logo7 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-2-span4 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-2-span5 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-more-2-span6 {
+  color: #a2a2a2;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .frame-15 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.mia-ranked-the-michigan-league-span4 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-the-michigan-league-span5 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-the-michigan-league-span6 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .pin-logo8 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span7 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span8 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .frame-14 {
+  background: rgba(217, 217, 217, 0.54);
+  border-radius: 19px;
+  padding: 22px 20px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 349px;
+  height: 521px;
+  position: relative;
+}
+.landing-page .mia-ranked-hatcher-graduate-library {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 52px;
+}
+.mia-ranked-hatcher-graduate-library-span {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.mia-ranked-hatcher-graduate-library-span2 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.mia-ranked-hatcher-graduate-library-span3 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.landing-page .pin-logo9 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .hatcher {
+  border-radius: 19px;
+  padding: 16px 15px 16px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 308px;
+  height: 237px;
+  position: relative;
+}
+.landing-page .group-3 {
+  flex-shrink: 0;
+  width: 51px;
+  height: 51px;
+  position: static;
+}
+.landing-page .ellipse-162 {
+  background: #df3333;
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  left: 242px;
+  top: 16px;
+}
+.landing-page ._2-1 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 254px;
+  top: 29px;
+  width: 28px;
+  height: 25px;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span9 {
+  color: #000000;
+  font-family: "RobotoFlex-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.notes-good-lighting-had-a-lot-of-free-tables-could-lock-in-adding-some-text-span10 {
+  color: #000000;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+.landing-page .group-29 {
+  position: absolute;
+  inset: 0;
+}
+.landing-page .finding-the-best {
+  color: #000000;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  left: 401px;
+  top: 251px;
+}
+.landing-page .on-campus {
+  color: #000000;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  left: 516px;
+  top: 485px;
+}
+.landing-page
+  .filler-text-but-use-this-website-to-rank-and-review-the-best-spots-on-university-of-michigan-campus {
+  color: #000000;
+  text-align: center;
+  font-family: "RobotoFlex-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 286px;
+  top: 638px;
+  width: 886px;
+  height: 99px;
+}
+.landing-page .rectangle-2 {
+  background: #4121ee;
+  border-radius: 39px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 3px;
+  width: 183px;
+  height: 66px;
+  position: absolute;
+  left: 657px;
+  top: 802px;
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 1);
+}
+.landing-page .post-now {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 670px;
+  top: 816px;
+  width: 158px;
+  height: 39px;
+}
+.landing-page .untitled-artwork-10-1 {
+  width: 176px;
+  height: 152px;
+  position: absolute;
+  left: 265px;
+  top: 164.13px;
+  transform-origin: 0 0;
+  transform: rotate(-10.189deg) scale(1, 1);
+  object-fit: cover;
+}
+.landing-page .untitled-artwork-11-1 {
+  width: 458px;
+  height: 412px;
+  position: absolute;
+  left: 893.25px;
+  top: 489px;
+  transform-origin: 0 0;
+  transform: rotate(7.426deg) scale(1, 1);
+  object-fit: cover;
+}
+.landing-page .frame-29 {
+  background: #000000;
+  border-radius: 11px;
+  padding: 4px 17px 4px 17px;
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  align-items: center;
+  justify-content: center;
+  width: 612px;
+  height: 124px;
+  position: absolute;
+  left: 438px;
+  top: 398.97px;
+  box-shadow: 9px 9px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(-4.871deg) scale(1, 1);
+}
+.landing-page .untitled-design-6-1 {
+  flex-shrink: 0;
+  width: 130px;
+  height: 109px;
+  position: relative;
+  object-fit: cover;
+}
+.landing-page .study-spots {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 85px;
+  font-weight: 400;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.landing-page .nav-bar-instance {
+  width: 1512px !important;
+  position: absolute !important;
+  left: 0px !important;
+  top: 0px !important;
+}

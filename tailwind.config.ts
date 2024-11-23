@@ -6,6 +6,7 @@ export default {
     extend: {
       fontFamily: {
         sans: [
+          "Roboto Flex",
           "Inter",
           "ui-sans-serif",
           "system-ui",
@@ -14,6 +15,12 @@ export default {
           "Segoe UI Emoji",
           "Segoe UI Symbol",
           "Noto Color Emoji",
+        ],
+        display: [
+          "Jua", // Custom display font
+          "ui-sans-serif",
+          "system-ui",
+          "sans-serif",
         ],
       },
     },
