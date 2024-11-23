@@ -34,7 +34,7 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed top-0 left-0 w-full bg-white border-b border-black transition-transform duration-500 ${
+      className={`fixed top-0 left-0 w-full bg-white border-b border-black z-50 transition-transform duration-500 ${
         showHeader ? "translate-y-0" : "-translate-y-full"
       }`}
     >

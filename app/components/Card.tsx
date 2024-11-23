@@ -3,7 +3,6 @@ import { Link } from "@remix-run/react";
 interface CardProps {
   name?: string;
   location?: string;
-  rank?: string;
   backgroundImage?: string;
   rating?: string;
   notes?: string;
@@ -13,20 +12,19 @@ interface CardProps {
 export default function Card({
   name,
   location,
-  rank,
   backgroundImage,
   rating,
   notes,
   timeAgo,
 }: CardProps) {
   return (
-    <div className="card">
+    <div className="card transition-transform duration-300 ease-in-out hover:scale-105">
       <header className="header">
         <div className="title-container">
-          <h2 className="title">
+          <h2 className="title w-3/4">
             <strong className="name">{name}</strong>
             <span className="ranked"> ranked </span>
-            <strong className="rank">{rank}</strong>
+            <strong className="rank">{location}</strong>
           </h2>
           <div className="rating-container">
             <output className="rating" aria-label="Rating">
