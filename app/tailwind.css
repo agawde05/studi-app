@@ -86,7 +86,7 @@ body {
 }
 
 .card .background-image {
-  @apply rounded-2xl w-full h-32 md:h-40 lg:h-48 bg-cover bg-center flex items-center justify-center;
+  @apply rounded-2xl h-full w-full md:h-40 lg:h-48 bg-cover bg-center flex items-center justify-center;
 }
 
 .card .footer {
