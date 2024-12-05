@@ -21,7 +21,7 @@ body {
 }
 
 .study-spots {
-  @apply text-white bg-black rounded-lg px-4 py-1 font-display text-[3rem] md:text-[4rem] lg:text-[5rem] font-normal shadow-lg -rotate-2;
+  @apply text-white bg-black rounded-lg px-4 py-1 font-display text-[3rem] md:text-[4rem] lg:text-[5rem] font-normal drop-shadow-2xl -rotate-3;
 }
 
 .filler-text {

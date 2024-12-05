@@ -40,7 +40,10 @@ export default function Header() {
     >
       <div className="flex items-center justify-between px-12 py-4 ">
         {/* Left Section */}
-        <div className="text-black font-extrabold text-4xl">Studi</div>
+        <div className="shrink flex flex-col items-end">
+          <img className="w-9 -mb-3 z-50" src="logo.svg" />
+          <h1 className="text-black font-extrabold text-3xl">Studi</h1>
+        </div>
 
         {/* Right Section */}
         <div className="flex items-center font-display">
@@ -52,7 +55,7 @@ export default function Header() {
               >
                 M
               </div>
-              <span className="text-black font-bold text-[1.5rem] pl-2 pt-1">
+              <span className="text-black font-bold text-2xl pl-2 pt-1">
                 Hi, Mia
               </span>
             </div>
