@@ -47,8 +47,8 @@ export default function Header() {
 
         {/* Right Section */}
         <div className="flex items-center font-display">
-          <div className="flex items-center mr-2">
-            <div className="flex items-center mr-2">
+          <div className="flex items-center mr-2 ">
+            <div className="flex items-center mr-2 ">
               <div
                 className="flex items-center justify-center bg-[#4121ee] rounded-full border border-black shadow-[2px_2px_2.6px_rgba(0,0,0,1)] text-white font-display text-[1.5rem] aspect-square"
                 style={{ width: "2.5rem" }}
@@ -58,9 +58,11 @@ export default function Header() {
               <span className="text-black font-bold text-2xl pl-2 pt-1">
                 Hi, Mia
               </span>
+              <div className="rounded-box-log-out">
+                <span className="log-out">Log out</span>
+              </div>
             </div>
           </div>
-          {/* <span className="text-black font-bold text-2xl">Hi, Mia</span> */}
         </div>
       </div>
     </header>
